@@ -1,3 +1,5 @@
-# ProDOS+ (Also known as: BetterProDOS)
+# BetterProDOS (ProDOS NeX)
 
-Coming soon... **02/2022**
+Welcome to ProDOS NeX, a new generation of our Batch Operating System
+
+I will update it every month to just make it more stable.
